@@ -1,5 +1,5 @@
 title: DAOcast
-author: Aigars Dzerviniks
+author: Danilo & Stratis
 description: Exploring the frontiers of Decentralized Autonomous Organizations.
 
 highlighter: null
@@ -10,4 +10,4 @@ baseurl:
 
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
-# color_scheme: avocado
+color_scheme: ruby
