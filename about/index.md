@@ -14,3 +14,7 @@ The 1st season features 9 episodes with the Pollinators, DAOstack's early adopte
 [Danilo](https://www.youtube.com/watch?v=mgK8QFYdbNk) is fascinated by everything Complexity related, from fungi mycelium, to cultural evolution, to distributed computer networks. He's worked as a community manager at DAOstack during the project's ICO.
 
 Stratis is a crypto enthusiast since 2015 and currently working as Marketing Manager at DAOstack. Among other things, he's passionate about free thought, free speech and free market.
+
+---
+
+*DAOcast is incubated at [DAOstack](https://daostack.io/).*
