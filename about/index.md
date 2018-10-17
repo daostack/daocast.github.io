@@ -9,7 +9,7 @@ The 1st season features 9 episodes with the Pollinators, DAOstack's early adopte
 
 "Who are you and what does a DAO mean to you?"
 
-### DAOcast's hosts are Danilo and Stratis.
+### DAOcast's hosts are Danilo and Stratis
 
 [Danilo](https://www.youtube.com/watch?v=mgK8QFYdbNk) is fascinated by everything Complexity related, from fungi mycelium, to cultural evolution, to distributed computer networks. He's worked as a community manager at DAOstack during the project's ICO.
 
