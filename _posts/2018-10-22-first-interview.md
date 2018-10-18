@@ -3,5 +3,11 @@ layout: post
 title: Episode 1 - Theodor Beutel
 ---
 
-<iframe src="https://player.vimeo.com/video/214092083?badge=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/214092083">A Sense of Wonder</a> from <a href="https://vimeo.com/mathieulelay">Mathieu Le Lay</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+For years, [Theodor Beutel](https://about.me/theodor.beutel), or Theo, has been conducting academic investigations in the fields of social sciences and business. In trying to understand the next steps of the firm, he came across blockchain technology and DAOs, which have since become his focus of study as a MSc student at The University of Edinburg.
+
+Tune in to hear about how Academia is reacting to the world of decentralized governance, how existing structures and models for human coordination compare to the ones emerging out of the blockchain space, how [Agent-based modeling](https://en.wikipedia.org/wiki/Agent-based_model) can aid in the design of governance protocols, and more.
+
+### References
+
+- [Behavioral Crypto-Economics: The Challenge and Promise of Blockchain Incentive Design](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175)
+- [What Are Token Curated Registries?](https://youtu.be/9_kvYeWWwUI)
