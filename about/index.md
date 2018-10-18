@@ -17,7 +17,7 @@ Stratis is a crypto enthusiast since 2015 and currently working as Marketing Man
 
 ### But what is a DAO anyway?
 
-That's exactly what we are trying to figure out through our conversations. Lucky for us, some people have done the work of synthesizing the basics from which we can grow more refined conceptualizations. So if you are new to all this (and even if you are already an expert) the video bellow will provide you with enough information to follow all episodes from DAOcast.
+That's exactly what we are trying to figure out through our conversations. Lucky for us, some people have done the work of synthesizing the basics from which we can grow more refined conceptualizations. So if you are new to all this (and even if you are already an expert) the video bellow will provide you with enough information to follow our explorations.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ETfaSaywXqM" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
