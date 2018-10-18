@@ -15,6 +15,12 @@ The 1st season features 9 episodes with the Pollinators, DAOstack's early adopte
 
 Stratis is a crypto enthusiast since 2015 and currently working as Marketing Manager at DAOstack. Among other things, he's passionate about free thought, free speech and free market.
 
+### But what is a DAO anyway?
+
+That's exactly what we are trying to figure out through our conversations. Lucky for us, some people have done the work of synthesizing the basics from which we can grow more refined conceptualizations. So if you are new to all this (and even if you are already an expert) the video bellow will provide you with enough information to follow all episodes from DAOcast.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ETfaSaywXqM" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ---
 
 *DAOcast is incubated at [DAOstack](https://daostack.io/).*
