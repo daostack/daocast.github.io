@@ -29,5 +29,6 @@ That's exactly what we are trying to figure out through our conversations. Lucky
 
 ***Ether/ERC20:*** *0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D*
 
-<p style="font-size: 100%;">***Ether/ERC20:*** *0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D*</p>
-<p style="font-size: 80%;">***Ether/ERC20:*** *0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D*</p> 
+<p style="font-size: 100%;"><i><b>Ether/ERC20:</b> 0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D</i></p>
+<p style="font-size: 80%;"><i><b>Ether/ERC20:</b> 0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D</i></p>
+<p style="font-size: small;"><i><b>Ether/ERC20:</b> 0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D</i></p>
