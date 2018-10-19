@@ -25,5 +25,5 @@ That's exactly what we are trying to figure out through our conversations. Lucky
 
 *DAOcast is connected to [DAOstack](https://daostack.io/), but we try to be as independent as possible. So, if you like what we are doing and are feeling generous today, you can help the show go on.*
 
-*- btc: 1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr
-- eth: 0x4aaca1bdb482a3778ede3810cee9971971a96db0*
+- *btc: 1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr*
+- *eth: 0x4aaca1bdb482a3778ede3810cee9971971a96db0*
