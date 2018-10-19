@@ -25,10 +25,5 @@ That's exactly what we are trying to figure out through our conversations. Lucky
 
 *DAOcast is connected to [DAOstack](https://daostack.io/), but we try to be as independent as possible. So, if you like what we are doing and are feeling generous, you can help the show go on.*
 
-***Bitcoin:*** *1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr*
-
-***Ether/ERC20:*** *0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D*
-
-<p style="font-size: 100%;"><i><b>Ether/ERC20:</b> 0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D</i></p>
-<p style="font-size: 80%;"><i><b>Ether/ERC20:</b> 0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D</i></p>
+<p style="font-size: small"><i><b>Bitcoin:</b> 1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr</i></p>
 <p style="font-size: small;"><i><b>Ether/ERC20:</b> 0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D</i></p>
