@@ -33,7 +33,7 @@ div {
 
 div.a {
     word-wrap: break-word;
-    font-size: 14px;
+    font-size: medium;
 }
 
 </style>
