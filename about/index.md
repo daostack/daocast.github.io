@@ -24,3 +24,4 @@ That's exactly what we are trying to figure out through our conversations. Lucky
 ---
 
 *DAOcast is incubated at [DAOstack](https://daostack.io/).*
+*[Follow us on Twitter](https://twitter.com/DAO_cast)* :)
