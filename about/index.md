@@ -23,7 +23,6 @@ That's exactly what we are trying to figure out through our conversations. Lucky
 
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
