@@ -23,7 +23,32 @@ That's exactly what we are trying to figure out through our conversations. Lucky
 
 ---
 
-<p style="font-size: 14" align="center">
-DAOcast is connected to <a href="https://daostack.io/">DAOstack</a>, but we have been <i>autonomous</i> in our <i>organizing</i>.<br>If you like what we are doing and are feeling generous, you can help the show go on.<br><br>
-<b>Bitcoin:</b><br>1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr<br><b>Ether/ERC20:<br></b> 0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D
-</p>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+    width: auto;
+    text-align:center;
+}
+
+div.a {
+    word-wrap: break-word;
+    font-size: 14px;
+}
+
+</style>
+</head>
+<body>
+
+<div class="a">DAOcast is connected to <a href="https://daostack.io/">DAOstack</a>, but we have been <i>autonomous</i> in our <i>organizing</i>.<br>If you like what we are doing and are feeling generous, you can help the show go on.<br><br>
+
+<b>Bitcoin:</b><br>
+1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr<br><br>
+
+<b>Ether/ERC20:</b><br>
+0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D</div>
+
+
+</body>
+</html>
