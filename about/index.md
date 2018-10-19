@@ -25,4 +25,4 @@ That's exactly what we are trying to figure out through our conversations. Lucky
 
 *DAOcast is connected to [DAOstack](https://daostack.io/), but we try to be as independent as possible. So, if you like what we are doing and are feeling generous today, you can help the show go on:*
 
-- *₿ 1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr*
+*Bitcion: 1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr*
