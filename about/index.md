@@ -23,8 +23,12 @@ That's exactly what we are trying to figure out through our conversations. Lucky
 
 ---
 
-*DAOcast is connected to [DAOstack](https://daostack.io/), but we try to be as independent as possible. So, if you like what we are doing and are feeling generous today, you can help the show go on.*
+*DAOcast is connected to [DAOstack](https://daostack.io/), but we try to be as independent as possible. So, if you like what we are doing and are feeling generous, you can help the show go on.*
 
-- ***Bitcoin:*** *1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr*
+***Bitcoin:*** *1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr*
 
-- ***Ether/ERC20:*** *0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D*
+***Ether/ERC20:*** *0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D*
+
+<div align="center">
+  test
+</div>
