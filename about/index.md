@@ -27,4 +27,4 @@ That's exactly what we are trying to figure out through our conversations. Lucky
 
 ###### *Bitcoin: 1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr*
 
-###### *Ether/ERC20:*** *0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D*
+###### *Ether/ERC20: 0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D*
