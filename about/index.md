@@ -23,7 +23,7 @@ That's exactly what we are trying to figure out through our conversations. Lucky
 
 ---
 
-<p style="font-size: medium" align="center">
+<p style="font-size: 15" align="center">
 
 DAOcast is connected to <a href="https://daostack.io/">DAOstack</a>, but we have been autonomous in our organizing.<br>So, if you like what we are doing and are feeling generous, you can help the show go on.<br><br>
 
