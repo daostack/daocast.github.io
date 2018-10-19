@@ -29,6 +29,8 @@ That's exactly what we are trying to figure out through our conversations. Lucky
 
 ***Ether/ERC20:*** *0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D*
 
-<div align="center">
-  test
-</div>
+div.a {
+    font-size: 100%;
+}
+
+<div class="a">Ether/ERC20: 0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D</div>
