@@ -33,14 +33,14 @@ div {
 
 div.a {
     word-wrap: break-word;
-    font-size: 15;
+    font-size: 14;
 }
 
 </style>
 </head>
 <body>
 
-<div class="a"><br>DAOcast emerged from <a href="https://daostack.io/">DAOstack</a>, but we have been <i>autonomous</i> in our <i>organizing</i>.<br>If you like what we are doing, you can help keep the show going on.<br><br>
+<div class="a"><br>DAOcast emerged from <a href="https://daostack.io/">DAOstack</a>, but we have been <i>autonomous</i> in our <i>organizing</i>.<br>If you like what we are doing, you can help keep the show going.<br><br>
 
 <b>Bitcoin:</b><br>
 1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr<br><br>
