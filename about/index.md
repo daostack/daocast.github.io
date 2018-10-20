@@ -17,7 +17,7 @@ Stratis is a crypto enthusiast since 2015 and currently working as Marketing Man
 
 ### But what is a DAO anyway?
 
-That's exactly what we are trying to figure out through our conversations. Lucky for us, some people have done the work of synthesizing the basics from which we can grow more refined conceptualizations. So if you are new to all this (and even if you are already an expert) the video bellow will provide you with enough information to follow our explorations.
+That's exactly what we are trying to figure out through our conversations. Lucky for us, some people have done the work of synthesizing the basics from which we can grow more refined conceptualizations. So if you are new to all this (and even if you are already an expert), the video bellow will provide you with enough information to follow our explorations.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ETfaSaywXqM" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -40,7 +40,7 @@ div.a {
 </head>
 <body>
 
-<div class="a"><br>DAOcast emerged from <a href="https://daostack.io/">DAOstack</a>, but we have been <i>autonomous</i> in our <i>organizing</i>.<br>So, if you like what we are doing, you can help the show go on.<br><br>
+<div class="a"><br>DAOcast emerged from <a href="https://daostack.io/">DAOstack</a>, but we have been <i>autonomous</i> in our <i>organizing</i>.<br>If you like what we are doing, you can help keep the show going on.<br><br>
 
 <b>Bitcoin:</b><br>
 1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr<br><br>
