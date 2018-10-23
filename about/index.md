@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-test
-
 DAOcast is an attempt at exploring the frontiers of Decentralized Autonomous Organizations. It's a series of podcast-style interviews with DAO researchers, developers and enthusiasts. The interviews always keep a casual tone. Free-flowing conversation is our one and only objective.
 
 The 1st season features 9 episodes with the Pollinators, DAOstack's early adopters community. Their backgrounds range from business, developing, non-profit, academia, art and more. We gave them the mic and asked but two simple questions:
