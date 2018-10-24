@@ -48,6 +48,8 @@ div.a {
 <b>Ether/ERC20:</b><br>
 0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D</div>
 
+New episodes every Wednesday at 7pm GMT+3.
+
 
 </body>
 </html>
