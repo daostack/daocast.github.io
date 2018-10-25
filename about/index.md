@@ -46,9 +46,7 @@ div.a {
 1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr<br><br>
 
 <b>Ether/ERC20:</b><br>
-0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D<br><br>
-
-New episodes every Wednesday at 7pm GMT+3.</div>
+0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D</div>
 
 
 </body>
