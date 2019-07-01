@@ -19,7 +19,7 @@ Stratis is a crypto enthusiast since 2015 and currently working as Marketing Man
 
 That's exactly what we are trying to figure out through our conversations. Lucky for us, some people have done the work of synthesizing the basics from which we can grow more refined conceptualizations. So if you are new to all this (and even if you are already an expert), the video bellow will provide you with enough information to follow our explorations.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ETfaSaywXqM" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Pyi8-qm02hs" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 
@@ -43,10 +43,10 @@ div.a {
 <div class="a"><br>DAOcast emerged from <a href="https://daostack.io/">DAOstack</a>, but we have been <i>autonomous</i> in our <i>organizing</i>.<br>If you like what we are doing, you can help the show go on.<br><br>
 
 <b>Bitcoin:</b><br>
-1EuCdTjtaMEk67Vf5ctBc3aWLxuHDAqBrr<br><br>
+397eWmCnKXgTG65b43bCuFWZby8hq79J9M<br><br>
 
 <b>Ether/ERC20:</b><br>
-0xcb20a7f9E02370Fc1E18f29287C3cCE88BD4455D</div>
+0x435CD42591cC503a909085c3d3d2899d17032F77</div>
 
 
 </body>
