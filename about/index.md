@@ -3,24 +3,25 @@ layout: page
 title: About
 ---
 
-DAOcast is an attempt at Exploring the frontiers of Decentralized Autonomous Organizations and Distributed Self-Organizing. It's a series of podcast-style interviews with DAO researchers, developers and enthusiasts. The interviews always keep a casual tone. Free-flowing conversation is our one and only objective.
+DAOcast is an attempt at Exploring the frontiers of Decentralized Autonomous Organizations and Distributed Self-Organizing. It's a mosaic of podcast-style conversations with DAO researchers, developers and enthusiasts. The interviews always keep a casual tone. Free-flowing conversation has been DAOcast's one and only objective.
 
-The 1st season features 9 episodes with DAOstack's early adopters community. Their backgrounds range from business, developing, non-profit, academia, art and more. We gave them the mic and asked but two simple questions:
+### Short History
+
+The 1st season features 9 episodes with DAOstack's early adopters community, hosted by [Danilo](https://dnllvrvz.github.io/) and Stratis (DAOcast co-initiators). Interviewee's backgrounds range from business, developing, non-profit, academia, art and more. We gave them the mic and asked but two simple questions:
 
 "Who are you and what does a DAO mean to you?"
 
-The 2nd season has kept the same spirit, but now interviewing people working on different projects, protocols and takes on decentralized/distributed organizations altogether. Moreover, anyone is invited to contribute with the show, either by hosting conversations or helping *behind the mic*. If you want to get involved, and make DAOcast a DAO of its own, say Hi in our [Telegram group](https://t.me/joinchat/F8MHBxCYQUigo7a-juqvDg).
+The 2nd season (led by Danilo only) has kept the same spirit, but now interviewing people working on different projects, protocols and takes on decentralized/distributed organizations altogether.
 
-### DAOcast's hosts are Danilo, Stratis, and you?
+Sequentially, the [DAO to Earth](https://daocast.io/dte01) series took place. Funded by Genesis DAO, this inquiry based project sought to further understand the experience of participating in a DAO, and how such a framework for organizing related to the world we were currently living in, in 2019.
 
-[Danilo](https://www.youtube.com/watch?v=mgK8QFYdbNk) is fascinated by everything Complexity related, from fungi mycelium, to cultural evolution, to distributed computer networks. He's worked as a community manager at DAOstack during the project's ICO.
+And then 2020 came about. The year that marked a new life for all of us. For Danilo, especially, this sentence is quite literal, since his first child was born on that year. Because of that, and the pandemic, DAOcast went hibernating.
 
-Stratis is a crypto enthusiast since 2015 and currently working as Marketing Manager at DAOstack. Among other things, he's passionate about free thought, free speech and free market.
-
+However, with the release of the [taoDAOcast](https://daocast.io/s05e01) episode, fresh energy arrive. And now,everyone is invited to co-create the show, in any capacity they see fit. So, if you want to get involved, and make DAOcast a DAO on itself, say Hi in our [Telegram group](https://t.me/joinchat/jmfilFEasxFiNGE1).
 
 ### But what is a DAO anyway?
 
-That's exactly what we are trying to figure out through our conversations. Lucky for us, some people have done the work of synthesizing the basics from which we can grow more refined conceptualizations. So if you are new to all this (and even if you are already an expert), the video bellow will provide you with enough information to follow our explorations.
+That's exactly what we are trying to figure out through our conversations and interactions. Lucky for us, some people have done the work of synthesizing the basics from which we can grow more refined conceptualizations and practices. So if you are new to all this (and even if you are already an expert), the video bellow will provide you with enough information to join our explorations.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Pyi8-qm02hs" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
